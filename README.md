@@ -1,3 +1,9 @@
-# sandbox-guestbook
+# Sandbox Guestbook
+*Add your name here*
 - Bridger Danby
-- Hunter Henrichsen
+
+
+
+
+
+<center>Here is a footer as well.</center>
