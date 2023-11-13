@@ -1,5 +1,8 @@
-# Sandbox Guestbook
-*Add your name here*
+# sandbox-guestbook
+- Hunter Henrichsen
+- Timothy Brown
+- Bridger Danby
+
 
 
 
@@ -7,3 +10,4 @@
 
 
 <center>Here is a footer as well.</center>
+
