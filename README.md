@@ -1,6 +1,8 @@
 # Sandbox Guestbook
-- Brendan Izu
 
+*Add your name here*
+- Bridger Danby
+- Brendan Izu
 
 
 
