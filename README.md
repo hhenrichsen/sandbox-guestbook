@@ -1,7 +1,6 @@
 # Sandbox Guestbook
 *Add your name here*
-
-
+- Spencer Bartholomew
 
 
 
